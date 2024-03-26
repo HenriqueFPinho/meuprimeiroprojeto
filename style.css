@@ -1,0 +1,51 @@
+h1 {
+    font-family: "Dosis", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #3F3D56;
+
+}
+
+body {
+    text-align: center;
+    margin: 64px auto 240px;
+    width: 626;
+    height: 486;
+
+}
+
+div {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: auto;
+    width: 540px;
+    height: 107px;
+    color: #828282;
+
+}
+
+footer {
+    text-align: center;
+}
+
+footer img {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+
+#Flutuar {
+    color: #828282;
+
+}
+
+div strong {
+    color: #3F3D56;
+
+}
+
+span {
+    color: #EE24FF;
+
+}
